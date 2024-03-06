@@ -1,0 +1,92 @@
+﻿  DB.cpp
+C:\Users\rbv\OOP\ДЗ_11\pr35\DB.h(8,12): error C2061: syntax error: identifier 'Word'
+C:\Users\rbv\OOP\ДЗ_11\pr35\DB.h(49,2): message : see reference to class template instantiation 'Vladimir::DB<T>' being compiled
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_io.h(18,1): error C2059: syntax error: 'string'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_io.h(18,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocbuf(20,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocbuf(20,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocmes(20,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocmes(20,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocmon(21,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocmon(21,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xloctime(22,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xloctime(22,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\locale(25,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\locale(25,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\codecvt(21,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\codecvt(21,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\rbv\OOP\ДЗ_11\pr35\DB.cpp(2,10): error C2955: 'Vladimir::DB': use of class template requires template argument list
+C:\Users\rbv\OOP\ДЗ_11\pr35\DB.h(5,1): message : see declaration of 'Vladimir::DB'
+C:\Users\rbv\OOP\ДЗ_11\pr35\DB.cpp(2,15): error C2061: syntax error: identifier 'Word'
+C:\Users\rbv\OOP\ДЗ_11\pr35\DB.cpp(2,10): error C3254: 'Vladimir': class contains explicit override 'push' but does not derive from an interface that contains the function declaration
+C:\Users\rbv\OOP\ДЗ_11\pr35\DB.cpp(2,10): error C2838: 'push': illegal qualified name in member declaration
+C:\Users\rbv\OOP\ДЗ_11\pr35\DB.cpp(6,10): error C2955: 'Vladimir::DB': use of class template requires template argument list
+C:\Users\rbv\OOP\ДЗ_11\pr35\DB.h(5,1): message : see declaration of 'Vladimir::DB'
+C:\Users\rbv\OOP\ДЗ_11\pr35\DB.cpp(6,10): error C3254: 'Vladimir': class contains explicit override 'print' but does not derive from an interface that contains the function declaration
+C:\Users\rbv\OOP\ДЗ_11\pr35\DB.cpp(6,10): error C2838: 'print': illegal qualified name in member declaration
+C:\Users\rbv\OOP\ДЗ_11\pr35\Vladimir.h(4,1): fatal  error C1075: '{': no matching token found
+  pr35.cpp
+C:\Users\rbv\OOP\ДЗ_11\pr35\DB.h(8,12): error C2061: syntax error: identifier 'Word'
+C:\Users\rbv\OOP\ДЗ_11\pr35\DB.h(49,2): message : see reference to class template instantiation 'Vladimir::DB<T>' being compiled
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_io.h(18,1): error C2059: syntax error: 'string'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_io.h(18,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocbuf(20,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocbuf(20,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocmes(20,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocmes(20,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocmon(21,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocmon(21,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xloctime(22,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xloctime(22,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\locale(25,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\locale(25,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\codecvt(21,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\codecvt(21,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\rbv\OOP\ДЗ_11\pr35\Vladimir.h(4,1): fatal  error C1075: '{': no matching token found
+  Reshetov.cpp
+C:\Users\rbv\OOP\ДЗ_11\pr35\DB.h(8,12): error C2061: syntax error: identifier 'Word'
+C:\Users\rbv\OOP\ДЗ_11\pr35\DB.h(49,2): message : see reference to class template instantiation 'Vladimir::DB<T>' being compiled
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_io.h(18,1): error C2059: syntax error: 'string'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_io.h(18,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocbuf(20,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocbuf(20,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocmes(20,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocmes(20,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocmon(21,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocmon(21,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xloctime(22,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xloctime(22,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\locale(25,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\locale(25,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\codecvt(21,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\codecvt(21,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\rbv\OOP\ДЗ_11\pr35\Reshetov.cpp(2,29): error C2990: 'Vladimir::DB': non-class template has already been declared as a class template
+C:\Users\rbv\OOP\ДЗ_11\pr35\DB.h(5,1): message : see declaration of 'Vladimir::DB'
+C:\Users\rbv\OOP\ДЗ_11\pr35\Reshetov.cpp(2,16): error C3254: 'Vladimir': class contains explicit override 'copy' but does not derive from an interface that contains the function declaration
+C:\Users\rbv\OOP\ДЗ_11\pr35\Reshetov.cpp(3,1): error C3241: 'void Vladimir::copy(Vladimir::DB &)': this method was not introduced by 'Reshetov'
+C:\Users\rbv\OOP\ДЗ_11\pr35\Reshetov.cpp(2,16): message : see declaration of 'Vladimir::copy'
+C:\Users\rbv\OOP\ДЗ_11\pr35\Vladimir.h(4,1): fatal  error C1075: '{': no matching token found
+  Vladimir.cpp
+C:\Users\rbv\OOP\ДЗ_11\pr35\DB.h(8,12): error C2061: syntax error: identifier 'Word'
+C:\Users\rbv\OOP\ДЗ_11\pr35\DB.h(49,2): message : see reference to class template instantiation 'Vladimir::DB<T>' being compiled
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_io.h(18,1): error C2059: syntax error: 'string'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_io.h(18,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocbuf(20,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocbuf(20,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocmes(20,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocmes(20,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocmon(21,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xlocmon(21,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xloctime(22,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\xloctime(22,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\locale(25,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\locale(25,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\codecvt(21,1): error C2059: syntax error: 'namespace'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\codecvt(21,1): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\rbv\OOP\ДЗ_11\pr35\Vladimir.cpp(2,29): error C2990: 'Vladimir::DB': non-class template has already been declared as a class template
+C:\Users\rbv\OOP\ДЗ_11\pr35\DB.h(5,1): message : see declaration of 'Vladimir::DB'
+C:\Users\rbv\OOP\ДЗ_11\pr35\Vladimir.cpp(2,16): error C3254: 'Vladimir': class contains explicit override 'copy' but does not derive from an interface that contains the function declaration
+C:\Users\rbv\OOP\ДЗ_11\pr35\Vladimir.cpp(3,1): error C3241: 'void Vladimir::copy(Vladimir::DB &)': this method was not introduced by 'Reshetov'
+C:\Users\rbv\OOP\ДЗ_11\pr35\Vladimir.cpp(2,16): message : see declaration of 'Vladimir::copy'
+C:\Users\rbv\OOP\ДЗ_11\pr35\Vladimir.h(4,1): fatal  error C1075: '{': no matching token found
+  Generating Code...

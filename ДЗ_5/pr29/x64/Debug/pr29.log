@@ -1,0 +1,4 @@
+﻿  pr29.cpp
+D:\Lections\ДЗ_5\pr29\stdafx.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Lections\ДЗ_5\pr29\pr29.cpp(84): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  pr29.vcxproj -> D:\Lections\ДЗ_5\pr29\x64\Debug\pr29.exe
